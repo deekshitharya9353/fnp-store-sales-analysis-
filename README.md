@@ -131,17 +131,6 @@ Some of the important observations from the analysis include:
 
 ---
 
-## 🖼️ Dashboard Preview
-
-The dashboard screenshot is included in this repository for quick reference.
-
-### Excel Dashboard
-
-![Excel Sales Dashboard](Dashboard.png)
-
-> If your uploaded PNG has a different filename, replace `Dashboard.png` above with the exact PNG filename in your repository.
-
----
 
 ## 📁 Project Files
 
